@@ -3,7 +3,6 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background: linear-gradient(to bottom right, #f5bfb2, #fe7bd7 ,rgb(136, 190, 238)); 
     background-position: center;
     background-size: cover;
 }
